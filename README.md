@@ -11,6 +11,7 @@ Requisitos a Diploma Técnico:
 - Entregar proyecto final.
 
 A continuación Links de Quiz y Exam de unidades:
+
 Módulo 1 Quiz JS Essentials 1
 https://forms.office.com/r/eYqSENxJYr
 
